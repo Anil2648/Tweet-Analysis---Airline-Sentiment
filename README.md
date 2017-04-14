@@ -17,7 +17,7 @@ We have provided all the airlines with positive and negative feedback details.
 Using the Tortoise SVN and GIT clone command you can pull the repository into your local system. Link is mentioned below.
 https://github.com/S525754/Tweet-Analysis---Airline-Sentiment.git
 
-How to execute the scripts in Pythonshell:
+How to execute the scripts in Python shell:
 We need to keep input file in the project folder for all three mapreduce problems. We can execute python scripts with the following commands. 
 Map reduce problem1:
 1) Run Mapper.py by using the following command --> execfile('mapper.py')
